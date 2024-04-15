@@ -1,6 +1,6 @@
 
-<h1 style="font-weight: 700;">Jogo de adivinhação</h1>
-<p>Jogo de adivinhação, utilizando reconhecimento de voz através da API 'Web Speech'. Projeto do Curso da Alura</p>
+<h1 style="font-weight: 700;">Jogo do número secreto</h1>
+<p>Jogo do número secreto, utilizando reconhecimento de voz através da API 'Web Speech'. Projeto do Curso da Alura</p>
 <br>
 
 <img src="README.png" alt="Foto do projeto" width="100%">
