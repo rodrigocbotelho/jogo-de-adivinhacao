@@ -4,7 +4,10 @@
 <br>
 
 <img src="pics/main.png" alt="Foto do projeto" width="100%">
+<h2 style="font-weight: 500;">Acertando o número</h2>
 <img src="pics/acertou.png" alt="Foto do projeto" width="100%">
+<h2 style="font-weight: 500;">Desistindo de adivinhar</h2>
+<p>Falando a palavra "Desisto", após isso acontece uma mudança na tela principal e é ativado uma áudio indicando que o usuário desistiu do jogo.</p>
 <img src="pics/desistiu.png" alt="Foto do projeto" width="100%">
 
 
