@@ -3,7 +3,10 @@
 <p>Jogo do número secreto, utilizando reconhecimento de voz através da API 'Web Speech'. Projeto do Curso da Alura</p>
 <br>
 
-<img src="README.png" alt="Foto do projeto" width="100%">
+<img src="pics/main.png" alt="Foto do projeto" width="100%">
+<img src="pics/acertou.png" alt="Foto do projeto" width="100%">
+<img src="pics/desistiu.png" alt="Foto do projeto" width="100%">
+
 
 ## 📦Tecnologias usadas:
 
