@@ -2,7 +2,7 @@
 <h1 style="font-weight: 700;">Jogo do número secreto</h1>
 <p>Jogo do número secreto, utilizando reconhecimento de voz através da API 'Web Speech'. Projeto do Curso da Alura</p>
 <br>
-
+<h2 style="font-weight: 500;">Tela principal</h2>
 <img src="pics/main.png" alt="Foto do projeto" width="100%">
 <h2 style="font-weight: 500;">Acertando o número</h2>
 <img src="pics/acertou.png" alt="Foto do projeto" width="100%">
