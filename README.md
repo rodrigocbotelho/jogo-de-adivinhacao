@@ -21,4 +21,4 @@ Projeto desenvolvido com as seguintes tecnologias:
 - Consumo de API
 
 ## 💻Projeto Finalizado
-Acesse aqui: https://jogo-de-adivinhacao-alpha.vercel.app/
+Acesse aqui: <a href="https://jogo-do-numero-secreto-alpha-wheat.vercel.app/" target="_blank">Jogo do número secreto</a>
