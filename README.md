@@ -1,12 +1,5 @@
-# jogo-de-adivinhacao
-
-
-
-
-
 
 <h1 style="font-weight: 700;">Jogo de adivinhação</h1>
-
 <p>Jogo de adivinhação, utilizando reconhecimento de voz através da API 'Web Speech'. Projeto do Curso da Alura</p>
 <br>
 
